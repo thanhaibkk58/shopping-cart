@@ -1,2 +1,3 @@
-# shopping-cart
-NodeJs + Express + MongoDB
+# shopping-cart: NodeJS/Express/MongoDB
+# Author: Than Van Hai
+
